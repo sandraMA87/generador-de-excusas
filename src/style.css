@@ -1,5 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 
 img {
-  width: 20%;
+  width: ;
+}
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-style: italic;
 }
